@@ -6,7 +6,11 @@ Hybrid Search System with HuggingFace, FAISS, and LangChain
 
 This project implements a hybrid search system for querying PDF documents using a combination of HuggingFace embeddings, FAISS, BM25, and MMR retrieval mechanisms. The system allows you to extract relevant information from large PDF documents and generate accurate, context-aware answers using a LangChain-integrated LLM.
 
-
+.
+├── huggingface_faiss_bm25_mmr_search.py  # Main script
+├── requirements.txt                     # Required dependencies
+├── README.md                            # Project documentation
+└── .env                                 # Environment variables \(optional\)
 
 Features
 

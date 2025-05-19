@@ -2,6 +2,8 @@
 This script implements a powerful hybrid search system that combines HuggingFace embeddings with multiple retrieval mechanisms, including FAISS-based similarity search, BM25, and Maximum Marginal Relevance (MMR), to enable efficient and accurate semantic search over PDF documents.
 Hybrid Search System with HuggingFace, FAISS, and LangChain
 
+Hybrid Search System with HuggingFace, FAISS, and LangChain
+
 This project implements a hybrid search system for querying PDF documents using a combination of HuggingFace embeddings, FAISS, BM25, and MMR retrieval mechanisms. The system allows you to extract relevant information from large PDF documents and generate accurate, context-aware answers using a LangChain-integrated LLM.
 
 
@@ -183,4 +185,6 @@ Extend support for multi-file PDF search.
 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
 

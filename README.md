@@ -125,15 +125,6 @@ embedding_model = "sentence-transformers/all-mpnet-base-v2" # Default
 
 ---
 
-## File Structure
----
-.
-├── huggingface_faiss_bm25_mmr_search.py # Main script
-├── requirements.txt # Required dependencies
-├── README.md # Project documentation
-└── .env # Environment variables (optional)
-
-
 ---
 
 ## Requirements
